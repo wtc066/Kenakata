@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"scr",
+				"source\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"pr",
+				"progress\tTag"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"border-ra",
+				"border-radius\tproperty"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"we",
+				"font-weight"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lena/Downloads/Easy Scripts.chm",
+		"/C/Users/lena/Downloads/index.html",
+		"/D/rabota/portfolio/PROJECT2/index.html",
+		"/C/Users/lena/Downloads/css/styles.css",
+		"/C/Users/lena/Downloads/css/media.css",
+		"/D/rabota/верстка/moj_site_boots/index.html",
+		"/D/rabota/верстка/moj_site_boots/css/style.css",
+		"/D/PROJECT2/index.html",
+		"/D/PROJECT2/css/style.css",
+		"/D/PROJECT2/contact.html",
+		"/D/PROJECT2/css/contact.style.css",
+		"/D/PROJECT2/send_form_email.php",
+		"/D/PROJECT2/js/script.js",
+		"/C/Users/lena/Downloads/style-form-css/style-form1.html",
+		"/C/Users/lena/Downloads/style-form-css/style-form2.html",
+		"/C/Users/lena/Downloads/Progress без рамки/NProgressBar.dcu",
+		"/D/PROJECT/index.html",
+		"/D/site_vizitka_poisk_raboty/js/script.js",
+		"/D/site_vizitka_poisk_raboty/index.html",
+		"/D/site_vizitka_poisk_raboty/css/style.css",
+		"/D/rabota/portfolio/site_vizitka_poisk_raboty/index.html",
+		"/D/rabota/portfolio/site_vizitka_poisk_raboty/js/script.js",
+		"/D/rabota/portfolio/site_vizitka_poisk_raboty/css/style.css",
+		"/D/rabota/верстка/moj_site_boots/js/main.js",
+		"/C/Users/lena/AppData/Roaming/Sublime Text 3/Packages/User/html5.sublime-snippet",
+		"/C/Users/lena/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/rabota/верстка/moj_site_boots/example/css/style.css",
+		"/D/rabota/верстка/moj_site_boots/example/index.html",
+		"/C/Users/lena/Downloads/Veggi Free Website Template - Free-CSS.com.zip",
+		"/D/rabota/верстка/bootstrap-4.0.0-beta/index.html",
+		"/D/rabota/верстка/portfolio/bootstrap-3.3.7-dist/index.html",
+		"/D/rabota/верстка/portfolio/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/D/rabota/верстка/portfolio/css/style.css",
+		"/D/rabota/верстка/portfolio/index.html",
+		"/D/rabota/верстка/Шаблон сайта/index.html",
+		"/D/rabota/верстка/Шаблон сайта/css/style.css",
+		"/D/rabota/верстка/portfolio/css/reset.css",
+		"/D/rabota/верстка/portfolio/css/slideshow.css",
+		"/D/PROJECT/js/slider.js",
+		"/D/woocommerce-FlexSlider-0690ec2/flexslider.css",
+		"/D/PROJECT/css/style.css",
+		"/D/woocommerce-FlexSlider-0690ec2/flexslider.less",
+		"/D/PROJECT/woocommerce-FlexSlider-0690ec2/flexslider.css",
+		"/D/PROJECT/js/$(document).ready()",
+		"/D/PROJECT/shop-archive/Исходники/css/style.css",
+		"/D/sitefly/sitename-pack/web/index.html",
+		"/D/bootstrap/sitename-pack/web/index.html",
+		"/D/bootstrap/sitename-pack/mobile/index.html",
+		"/D/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
